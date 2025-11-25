@@ -53,6 +53,8 @@ Program to implement the given logic function and to verify its operations in qu
 OUTPUT: i)
 
 <img width="954" height="502" alt="Screenshot 2025-11-25 220433" src="https://github.com/user-attachments/assets/c548980e-06c5-43f8-919e-f2a42bfe6d5f" />
+
+
 ii)
 
 <img width="936" height="496" alt="Screenshot 2025-11-25 220459" src="https://github.com/user-attachments/assets/c728117d-7ee4-44fd-9a2a-49c109b096b8" />
@@ -64,6 +66,8 @@ ii)
 Timing Diagram i)
 
 <img width="934" height="476" alt="Screenshot 2025-11-25 220518" src="https://github.com/user-attachments/assets/d0c28004-33dc-4c5c-8c8c-a59060e6e263" />
+
+
 ii)
 
 <img width="926" height="486" alt="Screenshot 2025-11-25 220539" src="https://github.com/user-attachments/assets/d31863d8-d591-4468-8b89-2acae40cf4d2" />
