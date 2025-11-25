@@ -64,17 +64,15 @@ ii)
 
 **RTL**
 Timing Diagram i)
-
-<img width="934" height="476" alt="Screenshot 2025-11-25 220518" src="https://github.com/user-attachments/assets/d0c28004-33dc-4c5c-8c8c-a59060e6e263" />
+<img width="934" height="494" alt="Screenshot 2025-11-25 231014" src="https://github.com/user-attachments/assets/aa446e86-7473-4661-a695-93c581fd1320" />
 
 
 ii)
+<img width="935" height="491" alt="Screenshot 2025-11-25 231030" src="https://github.com/user-attachments/assets/2231714b-be5d-4395-ab76-8af7a3245d1f" />
 
-<img width="926" height="486" alt="Screenshot 2025-11-25 220539" src="https://github.com/user-attachments/assets/d31863d8-d591-4468-8b89-2acae40cf4d2" />
 
 
 **Result:**
 Thus the given logic functions are implemented using and their operations are verified
  using Verilog programming
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
