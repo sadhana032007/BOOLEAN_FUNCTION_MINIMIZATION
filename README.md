@@ -68,8 +68,7 @@ Timing Diagram i)
 
 
 ii)
-<img width="935" height="491" alt="Screenshot 2025-11-25 231030" src="https://github.com/user-attachments/assets/2231714b-be5d-4395-ab76-8af7a3245d1f" />
-
+<img width="935" height="491" alt="Screenshot 2025-11-25 231030" src="https://github.com/user-attachments/assets/2681f322-36a2-4ed5-bc99-dd17aa321afb" />
 
 
 **Result:**
